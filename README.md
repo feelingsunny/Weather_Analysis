@@ -1,1 +1,1 @@
-https://github.com/feelingsunny/Web-Visualization-Dashboard
+https://feelingsunny.github.io/Web-Visualization-Dashboard/
