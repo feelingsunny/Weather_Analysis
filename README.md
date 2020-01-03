@@ -1,6 +1,6 @@
-Web Visualization Dashboard (Latitude-WeatherPy)
+# Web Visualization Dashboard (Latitude-WeatherPy)
 
-Data Visualization:
+# Data Visualization:
 
 https://feelingsunny.github.io/Weather_Analysis/
 
